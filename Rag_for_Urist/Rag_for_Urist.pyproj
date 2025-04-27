@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f03de267-d727-414d-91ec-2b9580b6ef4c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Rag_for_Urist.py</StartupFile>
+    <StartupFile>Rag_test2_FullState.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Rag_for_Urist.py" />
-    <Compile Include="класс1.py" />
+    <Compile Include="kagle.py" />
+    <Compile Include="Rag_test2_FullState.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
